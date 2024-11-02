@@ -1,10 +1,6 @@
 ## Hi, I'm Christina 👋
 
 <!--
-As a Computer Science student at UMass Lowell specializing in Data Science, I am driven by a passion for utilizing technology to solve complex problems and innovate. 👩🏻‍💻
-
-Having proficiency in Java, Python, and C, I am eager to connect with others who share my interests in data science and tech. Outside of academics and work, I am passionate about expression through music and the combination of mathematics and creativity in real-world solutions.
-
 **christinatran18/christinatran18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👩🏻‍💻 As a Computer Science student at UMass Lowell specializing in Data Science, I am driven by a passion for utilizing technology to solve complex problems and innovate.
+
+⚡ Having proficiency in Java, Python, and C, I am eager to connect with others who share my interests in data science and tech. Outside of academics and work, I am passionate about expression through music and the combination of mathematics and creativity in real-world solutions.
