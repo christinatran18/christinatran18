@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ⚡ Having proficiency in Java, Python, and C, I am eager to connect with others who share my interests in data science and tech. Outside of academics and work, I am passionate about expression through music and the combination of mathematics and creativity in real-world solutions.
 
-🚗 Currently I am working on a Road Safety Intelligence ChatBot using LLMs! You can view the repository here: https://github.com/Michelin-Mobility-BTTAI-Team-23/Road-Safety-LLM
+🚗 Currently I am working on a Road Safety Intelligence ChatBot using LLMs! You can view my Break Through Tech AI group's repository here: https://github.com/Michelin-Mobility-BTTAI-Team-23/Road-Safety-LLM
